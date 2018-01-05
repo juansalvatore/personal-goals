@@ -6,9 +6,9 @@ They're based on uma [personal-goals](https://github.com/una/personal-goals) but
 ## Mayor Goals for 2018
 
 * [ ] Train Capoeira all week: 💪
-      a. Monday, Wednesday and Friday at Cordao de Ouro
 
-  b. Tuesday and Thursday at Capoeira Oriaxé
+  * Monday, Wednesday and Friday at Cordao de Ouro
+  * Tuesday and Thursday at Capoeira Oriaxé
 
 - [ ] Rent a new apartment around Villa Crespo 🏡
 
