@@ -6,8 +6,8 @@ They're based on uma [personal-goals](https://github.com/una/personal-goals) but
 ## Mayor Goals for 2018
 
 * [ ] Train Capoeira all week: 💪
+      a. Monday, Wednesday and Friday at Cordao de Ouro
 
-  a. Monday, Wednesday and Friday at Cordao de Ouro
   b. Tuesday and Thursday at Capoeira Oriaxé
 
 - [ ] Rent a new apartment around Villa Crespo 🏡
@@ -16,17 +16,20 @@ They're based on uma [personal-goals](https://github.com/una/personal-goals) but
 
 - [ ] Find a job were I could work 6 hours 👨‍💻
 
-* [ ] Make a side-project per month 💼
+* [ ] Organize a [freeCodeCampBA](https://freecodecampba.org) meetup per month (10 episodes) ⛺️
 
-- [ ] Organize a [freeCodeCampBA](https://freecodecampba.org) meetup per month (10 episodes) ⛺️
+- [ ] Keep mentoring at [DigitalHouse](https://www.digitalhouse.com) and [CoderHouse](https://www.coderhouse.com) 👨‍🏫
 
-* [ ] Keep mentoring at [DigitalHouse](https://www.digitalhouse.com) and [CoderHouse](https://www.coderhouse.com) 👨‍🏫
+* [ ] Continue assisting to [events](https://github.com/lndgalante/events-assisted), reading [books](https://github.com/lndgalante/reads) and doing [courses](https://leonardogalante.com/courses/) #juniordevforlife 👨‍🎓
 
-- [ ] Continue assisting to [events](https://github.com/lndgalante/events-assisted), reading [books](https://github.com/lndgalante/reads) and doing [courses](https://leonardogalante.com/courses/) #juniordevforlife 👨‍🎓
+- [ ] Finish all [katas](https://github.com/lndgalante/codewars-katas) from CodeWars by the end of the year 🥋
 
-* [ ] Finish all [katas](https://github.com/lndgalante/codewars-katas) from CodeWars 🥋
+* [ ] Prepare and give some talk with [spectacle](http://formidable.com/open-source/spectacle) (maybe about GraphQL) 🗣
 
-- [ ] Get more in depth with the following stack 🥞
+- [ ] Make a side-project per month 💼
+  * Courses tracking plattform
+
+* [ ] Get more in depth with the following stack 🥞
 
   * **Front-end**
 
@@ -50,3 +53,7 @@ They're based on uma [personal-goals](https://github.com/una/personal-goals) but
 - [ ] Learn Ableton Live 🎹
 
 * [ ] Write poetry and draw more ✍️
+
+- [ ] Save some money to travel abroad ✈️
+
+* [ ] Will love to assist to the [The Fullstack Academy](https://www.fullstackacademy.com) 🗽
