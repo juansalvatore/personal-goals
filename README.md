@@ -56,4 +56,4 @@ They're based on uma [personal-goals](https://github.com/una/personal-goals) but
 
 - [ ] Save some money to travel abroad ✈️
 
-* [ ] Will love to assist to the [The Fullstack Academy](https://www.fullstackacademy.com) 🗽
+* [ ] Would love to assist to the [The Fullstack Academy](https://www.fullstackacademy.com) 🗽
